@@ -1,1 +1,14 @@
-/* add CSS class and element and selectors here */
+body {
+  background-color: lightyellow; 
+  font-size: 100% ;
+  color: lightgreen;
+  font-family: 'Playfair Display', serif;
+  
+}
+.natexampleclass {
+  font-size: 400%;
+  font-family: 'Playfair Display', serif;
+  background-color: orange; 
+  border:orange;
+  text-transform: uppercase
+}
